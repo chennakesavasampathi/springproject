@@ -1,0 +1,1 @@
+create table course(id number(2),name varchar2(20),add varchar2(30));
